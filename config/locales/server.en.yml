@@ -1,1 +1,3 @@
 en:
+  site_settings:
+    discourse_plugin_markdown_html_whitelist_enabled: "Enable html markdown extra elements whitelist"
