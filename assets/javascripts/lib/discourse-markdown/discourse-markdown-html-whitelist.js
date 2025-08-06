@@ -25,5 +25,7 @@ export function setup(helper) {
     "label[for]",
     "output[for]",
     "output[id]",
+    "summary",
+    "summary[id]",
   ]);
 }
